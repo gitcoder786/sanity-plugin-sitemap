@@ -16,14 +16,14 @@ A fully customizable plugin to generate SEO-friendly **XML sitemaps** for Sanity
 ## 🚀 Installation
 
 ```bash
-npm install sanity-plugin-sitemap
+npm install sanity-plugin-sitemap-pro
 
 ```
 
 ## 🔧 Usage in sanity.config.ts
 
 ```bash
-import { sitemapPlugin } from 'sanity-plugin-sitemap'
+import { sitemapPlugin } from 'sanity-plugin-sitemap-pro'
 
 export default defineConfig({
   // ...
@@ -51,7 +51,7 @@ export default defineConfig({
 
 ## 🧪 Programmatic Usage (Node, Next.js, etc.)
 ```bash
-import { generateSitemap, generateSplitSitemaps } from 'sanity-plugin-sitemap'
+import { generateSitemap, generateSplitSitemaps } from 'sanity-plugin-sitemap-pro'
 
 const xml = await generateSitemap(client, config) // single or index
 

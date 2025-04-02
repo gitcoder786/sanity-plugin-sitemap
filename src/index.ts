@@ -15,7 +15,7 @@ export const sitemapPlugin = definePlugin<SitemapPluginConfig>((config) => {
   }
 
   return {
-    name: 'sanity-plugin-sitemap', // Plugin identifier
+    name: 'sanity-plugin-sitemap-pro', // Plugin identifier
   }
 })
 
