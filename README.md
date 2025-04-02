@@ -1,4 +1,4 @@
-# 🗺️ sanity-plugin-sitemap
+# 🗺️ sanity-plugin-sitemap-pro
 
 A fully customizable plugin to generate SEO-friendly **XML sitemaps** for Sanity Studio v3.
 
