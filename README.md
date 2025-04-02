@@ -18,6 +18,9 @@ A fully customizable plugin to generate SEO-friendly **XML sitemaps** for Sanity
 ```bash
 npm install sanity-plugin-sitemap
 
+```
+
+## 🔧 Usage in sanity.config.ts
 
 ```bash
 import { sitemapPlugin } from 'sanity-plugin-sitemap'
