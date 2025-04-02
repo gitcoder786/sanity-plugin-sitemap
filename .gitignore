@@ -1,0 +1,12 @@
+# Node
+node_modules/
+dist/
+.cache/
+.env
+*.log
+
+# macOS
+.DS_Store
+
+# Sanity Studio
+.next/
