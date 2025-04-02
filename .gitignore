@@ -10,3 +10,11 @@ dist/
 
 # Sanity Studio
 .next/
+
+# Build files
+dist/
+*.js
+!src/**/*.js   # optional: keep source .js but ignore compiled ones
+
+# Do not publish dev files to npm
+dev/
